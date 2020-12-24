@@ -1,1 +1,2 @@
 
+W folderze pokazane są przypadkowe problemy napotykane przez potencjalnych przedsiębiorców, inżynierów czy kogokolwiek innego. Problemy na które odpowiedź można znaleźć w bardzo łatwy sposób. Poruszając się dobrze w języku Python oraz wykorzystując narzędzie do rozwiązywania problemów opisanych wzorem matematycznym, znając ograniczenia oraz zmienne towarzyszące danej sytuacji jesteśmy w stanie otrzymać wynik będący najlepszym rozwiązaniem danego problemu.
